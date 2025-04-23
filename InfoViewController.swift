@@ -1,9 +1,4 @@
-//
-//  InfoViewController.swift
-//  Navigation
-//
-//  Created by Ума Ильясова on 22.04.2025.
-//
+
 
 import UIKit
 
